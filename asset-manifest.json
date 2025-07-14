@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/react-url-shortener/static/js/main.f1da7086.js",
+    "index.html": "/react-url-shortener/index.html",
+    "main.f1da7086.js.map": "/react-url-shortener/static/js/main.f1da7086.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.f1da7086.js"
+  ]
+}
